@@ -1,4 +1,4 @@
-For more information, see the issues.
+For more information, see the issues and pdf files.
 
 C++ Books list:
 
